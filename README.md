@@ -1,6 +1,7 @@
 # sobre min 
 - 👋 Hi, meu nome é @otavio-schmieleski
 - 📧 E-mail para contato otavioschmieleski@gmail.com 
+- linkedin: https://www.linkedin.com/in/ot%C3%A1vio-marcelo-vitor-schmieleski-costa-a76010219
 - 👀 I’m interested in aprender cada vez mais a programar e aprender as novas linguagens e tecnologias
 - 🌱 I’m currently learning programação  FRONT END E BACK END
 - 💞️ I’m looking to collaborate on com as áreas da tecnologias
