@@ -1,5 +1,5 @@
 # sobre min 
-- 👋 Hi, meu nome é @otavio-schmieleski
+- 👋 Hi, meu nome é @Otavio Marcelo Vitor Schmieleski Costa 
 - 👀 I’m interested in aprender cada vez mais a programar e aprender as novas linguagens e tecnologias
 - 🌱 I’m currently learning programação  FRONT END E BACK END
 - 💞️ I’m looking to collaborate on com as áreas da tecnologia
