@@ -1,11 +1,15 @@
-# sobre min 
+## sobre min 
 - 👋 Hi, meu nome é @Otavio Marcelo Vitor Schmieleski Costa 
 - 👀 I’m interested in aprender cada vez mais a programar e aprender as novas linguagens e tecnologias
 - 🌱 I’m currently learning programação  FRONT END E BACK END
 - 💞️ I’m looking to collaborate on com as áreas da tecnologia
 - 💻 Universitário do Curso Sistema de Informação pela instituição de Ensino UNIMATER(MATER DEI)
 - 🚀 I'm a full-stack developer, currently working with python, java, uipath
-- ![Otavio GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio-schmieleski&show_icons=true&theme=github_dark&card_width=500px)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-schmieleski&layout=compact&langs_count=8&theme=github_dark)
+
+<div>
+  <a href="https://github.com/otavio-schmieleski">
+  <img height='200em' src="https://github-readme-stats.vercel.app/api?username=otavio-schmieleski&show_icons=true&theme=github_dark&card_width=500px"/>   <img height='200em'     src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-schmieleski&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
 - ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
