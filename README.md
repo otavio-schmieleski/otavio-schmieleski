@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on com as áreas da tecnologia
 - 💻 Universitário do Curso Sistema de Informação pela instituição de Ensino UNIMATER(MATER DEI)
 - 🚀 I'm a full-stack developer, currently working with python, java, uipath
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
 - ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
