@@ -4,18 +4,16 @@
 - 🌱 I’m currently learning programação  FRONT END E BACK END
 - 💞️ I’m looking to collaborate on com as áreas da tecnologia
 - 💻 Universitário do Curso Sistema de Informação pela instituição de Ensino UNIMATER(MATER DEI)
-- 🚀 I'm a full-stack developer, currently working with python, java, uipath
+- 🚀 I'm a full-stack developer, currently working with python, java, uipath <br/><br/>
 
 
 <a href="https://github.com/otavio-schmieleski">
-<img height='200em' src="https://github-readme-stats.vercel.app/api?username=otavio-schmieleski&show_icons=true&theme=github_dark&card_width=500px"/>   <img height='200em'     src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-schmieleski&layout=compact&langs_count=8&theme=github_dark"/>
+   <img height='200em' src="https://github-readme-stats.vercel.app/api?username=otavio-schmieleski&show_icons=true&theme=github_dark&card_width=500px"/>   <img height='200em'     src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-schmieleski&layout=compact&langs_count=16&theme=github_dark&card_width=350"/>
 
-- ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,arduino,mysql,sqlite&theme=light)](https://skillicons.dev)
+
+
 ## Contatos:
 <a href="https://www.linkedin.com/in/ot%C3%A1vio-marcelo-vitor-schmieleski-costa-a76010219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:otavioschmieleski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
