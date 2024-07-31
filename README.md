@@ -1,10 +1,10 @@
-## sobre min 
-- 👋 Hi, meu nome é @Otavio Marcelo Vitor Schmieleski Costa 
-- 👀 I’m interested in aprender cada vez mais a programar e aprender as novas linguagens e tecnologias
-- 🌱 I’m currently learning programação  FRONT END E BACK END
-- 💞️ I’m looking to collaborate on com as áreas da tecnologia
-- 💻 Universitário do Curso Sistema de Informação pela instituição de Ensino UNIMATER(MATER DEI)
-- 🚀 I'm a full-stack developer, currently working with python, java, uipath <br/><br/>
+## About me 
+- 👋 Hello, my name is @Otavio Marcelo Vitor Schmieleski Costa
+- 👀 I am interested in learning more and more how to program and learn new languages ​​and technologies
+- 🌱 I am currently learning FRONT END AND BACK END programming
+- 💞️ I am looking to collaborate on technology areas
+- 💻 University student of the Information Systems Course at the Educational Institution UNIMATER (MATER DEI)
+- 🚀 I am a full-stack developer, I currently work with Python, Java, Uipath <br/><br/>
 
 <br/><br/>
 [![My Skills](https://skillicons.dev/icons?i=py,django,java,js,html,css,arduino,mysql,sqlite&theme=light)](https://skillicons.dev)
