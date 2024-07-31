@@ -7,7 +7,7 @@
 - 🚀 I'm a full-stack developer, currently working with python, java, uipath <br/><br/>
 
 <br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,arduino,mysql,django,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,java,js,html,css,arduino,mysql,sqlite&theme=light)](https://skillicons.dev)
 
 
 ## Contatos:
